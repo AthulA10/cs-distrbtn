@@ -72,7 +72,7 @@
 
     -- ftd.color cta-primary-border-:
     light: #00063f
-    dark: #00063f
+    dark: #141001
 
     -- ftd.color cta-primary-text-:
     light: #e6e6ec

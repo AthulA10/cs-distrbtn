@@ -52,7 +52,7 @@
 
     -- ftd.color cta-primary-base-:
     light: #00063F
-    dark: #00063F
+    dark: #F9D54C
 
     -- ftd.color cta-primary-hover-:
     light: #000539

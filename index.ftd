@@ -9,10 +9,10 @@ $processor$: pr.figma-cs-token
 variable: $main
 name: Default-cs
 
--- cd.color-display-one:
-colors: $main
-minimize: true
-figma-json: $figma-json
+;;-- cd.color-display-one:
+;;colors: $main
+;;minimize: true
+;;figma-json: $figma-json
 
 
 
